@@ -36,5 +36,6 @@ public class Main {
             System.out.println("Guess Amount: " + guessAmount);
             System.out.println("Try the divide and conquer strategy next time!");
         }
+        scan.close();
     }
 }
